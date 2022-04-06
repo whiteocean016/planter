@@ -1,7 +1,7 @@
 plotly==4.6.0
 numpy==1.18.2
 dash==1.11.0
-notebook==6.1.5
+notebook==6.4.10
 psutil==5.7.0
 requests==2.23.0
 pandas==1.0.3
